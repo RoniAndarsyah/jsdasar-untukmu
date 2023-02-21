@@ -6,4 +6,4 @@ pertama, kedua dan js.js (untuk pemanggilan JavaScript)
 
 Komentar pada JS dapat ditulis dengan
 1. Single Line (//......................)
-2. Multi Line (/*.....................*/)
+2. Multi Line (/**.....................**/)
